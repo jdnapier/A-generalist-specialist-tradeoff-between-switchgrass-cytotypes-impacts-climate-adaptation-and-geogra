@@ -1,5 +1,6 @@
 `GW.100kSNPs.CDS.Pvir4X8X.genlight.rds` contains genotypes in genlight 
-format. Requires `adegenet` R package in order to load. 4X are coded with
+format. Genotypes are at 100k SNPs randomly selected from CDS across the 
+genome. Requires `adegenet` R package in order to load. 4X are coded with
 diploid genotypes since they have disomic inheritance. 8X are coded with
 tetraploid genotypes.
 
