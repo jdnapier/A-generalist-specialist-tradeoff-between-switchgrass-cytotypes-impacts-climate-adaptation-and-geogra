@@ -1,0 +1,9 @@
+`GW.100kSNPs.CDS.Pvir4X8X.genlight.rds` contains genotypes in genlight 
+format. Requires `adegenet` R package in order to load. 4X are coded with
+diploid genotypes since they have disomic inheritance. 8X are coded with
+tetraploid genotypes.
+
+`GulfvsMidwest.Fst0.5.Pvir4X8X.vcf.bz2` contains SNPs in CDS with Fst >0.5 
+between training sets of 4X Gulf and 4X Midwest. This VCF can be used
+to identify ancestry-informative alleles and identify Gulf alleles in 
+Midwest samples
